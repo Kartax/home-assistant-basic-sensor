@@ -1,0 +1,1 @@
+"""Kartax Basic Sensor"""
