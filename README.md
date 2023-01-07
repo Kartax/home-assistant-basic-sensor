@@ -4,6 +4,8 @@
 # Home Assistant - Basic Sensor
 A basic home-assistant integration providing a single sensor that auto increments its value.
 
+The main purpose of this repository is being a **template for developers.**
+
 ## Installation
 Manually add this repository by using the "three-dots-menu" at the top right in HACS.
 
