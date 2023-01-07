@@ -4,5 +4,10 @@
     "version": "1.0.0",
     "integration_type": "hub",
     "iot_class": "cloud_polling",
-    "reqirements": []
+    "reqirements": [],
+    "codeowners": [
+      "@Kartax"
+    ],
+    "issue_tracker": "https://github.com/Kartax/home-assistant-basic-sensor/issues",
+    "documentation": "https://github.com/Kartax/home-assistant-basic-sensor"
 }
